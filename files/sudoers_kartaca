@@ -1,0 +1,2 @@
+{{ kartaca.user }} ALL=(ALL) NOPASSWD: /usr/bin/yum
+{{ kartaca.user }} ALL=(ALL) NOPASSWD: /usr/bin/apt
